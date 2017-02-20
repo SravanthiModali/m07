@@ -1,0 +1,23 @@
+{   "name": "m07",
+    "version": "0.0.1",
+    "description": "simple guestbook app",
+    "main": "gbapp.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Naga Sravanthi Modali",
+    "homepage": "https://github.com/SravanthiModali/m07",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SravanthiModali/m07"
+    },
+     "license": "Apache-2.0"
+}
+
+
+
+
+
